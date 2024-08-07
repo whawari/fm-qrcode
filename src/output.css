@@ -553,3 +553,7 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.font-outfit {
+  font-family: Outfit, sans-serif;
+}
